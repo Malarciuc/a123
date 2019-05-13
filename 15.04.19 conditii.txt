@@ -1,0 +1,20 @@
+1)de creat un proiect web: 
+a)index html PUG
+b) style.css (SCSS)
+c)main.ts->main.js
+d)production, developing
+2)proiectul trebuie pornit in regim developing pe un dev server
+3) precompilati PUG
+4) precompilati SAS in SCSS
+5)determinati envoriment configurari pentru dezvoltarea production si develop
+6)minificati fisierul js 
+7)realizati un sprite de imagini
+8)*realizati bildare a proiectului pentru al publica
+
+
+data viitoare:
+de prelucrat instalarea njinx sub linux
+(njinx digital oushion)
+de pregatit un proiect care este bildat deja
+
+https://www.youtube.com/watch?v=X6qde-zvw00&list=PLbZerpEHZ8s0GgEcddz186-xRs8X0t0rA
